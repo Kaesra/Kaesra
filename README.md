@@ -1,65 +1,66 @@
 <h1 align="center">Berkay</h1>
 <p align="center">
-  Backend Systems • Automation Infrastructure • High-performance API Architecture
+  Backend Developer focused on automation, scalable systems, and high-performance API architecture.
 </p>
 
 <p align="center">
-  Karmaşık süreçleri sadeleştiren ve sistemleri ölçeklenebilir hale getiren bir geliştirici.
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20TypeScript-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-Linux%20%7C%20Scripting-1f2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Infrastructure-APIs%20%7C%20Gateways-1f2937?style=for-the-badge" />
 </p>
 
 ---
 
-## Core Focus
+## Hakkımda
 
-- Backend Architecture (Node.js / TypeScript)
-- Automation Systems & Workflow Optimization
-- AI Proxy & Gateway Design
-- High-performance API Systems
-- Linux-based Infrastructure
+Backend sistemleri, otomasyon altyapıları ve yüksek performanslı API mimarileri üzerine çalışıyorum.
+
+Odak noktam:
+- karmaşık süreçleri sadeleştirmek
+- tekrar eden işleri otomatikleştirmek
+- sistemleri daha güvenli ve ölçeklenebilir hale getirmek
 
 ---
 
-## Ne Üretiyorum?
+## Uzmanlık Alanlarım
 
-### AI Proxy & Gateway Sistemleri
-Farklı yapay zekâ modellerini tek bir entry point üzerinden yöneten, streaming destekli, düşük latency’li proxy altyapıları geliştiriyorum.
+### Backend Architecture
+Node.js ve TypeScript tabanlı servisler, modüler yapı, temiz API tasarımı ve performans odaklı backend sistemleri geliştiriyorum.
 
-### Güvenli Backend Sistemleri
-- AES tabanlı veri güvenliği
-- Role / state recovery sistemleri
-- Fail-safe mimari tasarımlar
+### Automation Systems
+Elle yapılan süreçleri script, worker ya da event-driven yapılarla otomatik hale getiriyorum.
 
-### Otomasyon
-Manuel yapılan her işi script’e dönüştürürüm. Linux üzerinde çalışan, düşük maliyetli ve sürekli çalışan sistemler kurarım.
+### AI Proxy & Gateway Design
+Farklı modelleri tek noktadan yöneten, streaming destekli, düşük latency’li AI gateway sistemleri inşa ediyorum.
 
-### Game & Bot Systems
-- Discord botları (stateful sistemler)
-- Minecraft plugin & server logic
-- Event-driven otomasyon sistemleri
+### Secure Systems
+AES-256, state recovery, fail-safe yaklaşımı ve dayanıklı sistem davranışları üzerine çalışıyorum.
 
 ---
 
 ## Tech Stack
 
-### Backend
+**Languages & Runtime**
 - Node.js
-- Express
 - TypeScript
+- JavaScript
 
-### Automation & Bots
+**Backend**
+- Express
+- REST API design
+- Streaming systems
+
+**Automation**
 - Discord.js
-- Custom scripting (Linux-based)
-
-### System
-- Linux (CachyOS / Arch ecosystem)
 - Shell scripting
-- Process automation
+- Linux process automation
 
-### Infrastructure
+**Infrastructure**
+- Linux (CachyOS / Arch ecosystem)
 - Git
 - Vercel
-- API Gateway design
-- Encryption (AES-256)
+- API Gateway patterns
+- AES-256 encryption
 
 ---
 
@@ -72,24 +73,25 @@ Manuel yapılan her işi script’e dönüştürürüm. Linux üzerinde çalış
 
 ---
 
-## Çalışma Felsefem
+## Working Philosophy
 
-- Basit sistem > kompleks sistem
-- Otomasyon > manuel iş
-- Ölçeklenebilirlik > hızlı çözüm
-- Performans > süslü kod
+- Simple systems win
+- Automation beats repetition
+- Scalability beats shortcuts
+- Performance beats flashy code
 
 ---
 
-## İlgi Alanları
+## Current Interests
 
 - Backend Architecture
-- AI Systems & Proxy Design
-- Automation & Infrastructure
-- Linux Customization
+- AI Systems
+- Proxy / Gateway Design
+- Automation Infrastructure
+- Linux-based Workflows
 
 ---
 
-## Not
+## Quote
 
 > "Eğer bir sistemi tekrar tekrar elle çalıştırıyorsan, o sistem henüz bitmemiştir."
